@@ -23,7 +23,7 @@ export default function Home() {
 <div className="mt-5">
 <div className="flex gap-5 items-center pl-5 text-white">
   <div className="w-full max-w-max">01</div>
-  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120}/></div>
+  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120} alt="image"/></div>
   <div className="w-full max-w-[187px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consect etur sed det dolor</p></div>
   <div className="w-full min-w-[426px] max-w-[426px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</p></div>
   <div className="w-full max-w-[131px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">April 2022,  Sunday   2:00PM </p></div>
@@ -34,7 +34,7 @@ export default function Home() {
 <div className="mt-5">
 <div className="flex gap-5 items-center pl-5 text-white">
   <div className="w-full max-w-max">02</div>
-  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%2013.png" height={90} width={120}/></div>
+  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%2013.png" height={90} width={120} alt="image"/></div>
   <div className="w-full max-w-[187px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consect etur sed det dolor</p></div>
   <div className="w-full min-w-[426px] max-w-[426px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</p></div>
   <div className="w-full max-w-[131px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">April 2022,  Sunday   2:00PM </p></div>
@@ -45,7 +45,7 @@ export default function Home() {
 <div className="mt-5">
 <div className="flex gap-5 items-center pl-5 text-white">
   <div className="w-full max-w-max">03</div>
-  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%2014.png" height={90} width={120}/></div>
+  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%2014.png" height={90} width={120} alt="image"/></div>
   <div className="w-full max-w-[187px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consect etur sed det dolor</p></div>
   <div className="w-full min-w-[426px] max-w-[426px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</p></div>
   <div className="w-full max-w-[131px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">April 2022,  Sunday   2:00PM </p></div>
@@ -56,7 +56,7 @@ export default function Home() {
 <div className="mt-5">
 <div className="flex gap-5 items-center pl-5 text-white">
   <div className="w-full max-w-max">04</div>
-  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120}/></div>
+  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120} alt="image"/></div>
   <div className="w-full max-w-[187px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consect etur sed det dolor</p></div>
   <div className="w-full min-w-[426px] max-w-[426px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</p></div>
   <div className="w-full max-w-[131px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">April 2022,  Sunday   2:00PM </p></div>
@@ -67,7 +67,7 @@ export default function Home() {
 <div className="py-5">
 <div className="flex gap-5 items-center pl-5 text-white">
   <div className="w-full max-w-max">05</div>
-  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120}/></div>
+  <div className="w-full max-w-[120px]"><Image src="https://tuk-cdn.s3.amazonaws.com/can-uploader/Astronaut-final%207.png" height={90} width={120} alt="image"/></div>
   <div className="w-full max-w-[187px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consect etur sed det dolor</p></div>
   <div className="w-full min-w-[426px] max-w-[426px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</p></div>
   <div className="w-full max-w-[131px]"><p className="plus-jakarta-sans text-[14px] font-normal leading-[142.857%] ">April 2022,  Sunday   2:00PM </p></div>
